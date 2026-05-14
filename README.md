@@ -4,7 +4,7 @@ A football analytics project analyzing Bernardo Silva’s performance from 2017/
 
 ---
 
-live demo: 
+live demo: https://bernardo-silva-performance-analytics-dashboard-jswjrw5rkyrij3v.streamlit.app/
 
 ## 📊 Project Overview
 
@@ -106,8 +106,8 @@ pip install -r requirements.txt
 streamlit run app21.py
 
 ## Dashboard Preview
+<img width="1599" height="772" alt="image" src="https://github.com/user-attachments/assets/530d494e-5e91-4328-a178-1adb0559e851" />
 
-(Add screenshot here)
 
 ## Author
 Stephen Yaw Ayamah
