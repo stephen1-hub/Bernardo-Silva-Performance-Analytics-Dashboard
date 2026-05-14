@@ -1,0 +1,12 @@
+bernardo-silva-analytics/
+│
+├── app.py
+├── data/
+│   └── player-groups.xlsx
+│
+├── assets/
+│   └── bernardo.jpg
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
