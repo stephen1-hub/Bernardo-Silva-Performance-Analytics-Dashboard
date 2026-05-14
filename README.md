@@ -75,6 +75,19 @@ Recent years = hybrid role with controlled attacking output
 - Excel dataset
 
 ---
+## Project Structure
+bernardo-silva-analytics/
+│
+├── app21.py
+├── data/
+│   └── player-groups (6).xlsx
+│
+├── assets/
+│   └── bernardo.jpg
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ## 📈 Features
 
@@ -97,5 +110,5 @@ streamlit run app21.py
 (Add screenshot here)
 
 ## Author
-
+Stephen Yaw Ayamah
 Football Data Analyst Portfolio Project
