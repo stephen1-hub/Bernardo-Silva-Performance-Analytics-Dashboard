@@ -90,7 +90,7 @@ Recent years = hybrid role with controlled attacking output
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app21.py
 
 ## Dashboard Preview
 
