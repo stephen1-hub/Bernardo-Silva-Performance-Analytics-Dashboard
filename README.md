@@ -4,6 +4,8 @@ A football analytics project analyzing Bernardo Silva’s performance from 2017/
 
 ---
 
+live demo: 
+
 ## 📊 Project Overview
 
 This dashboard evaluates:
