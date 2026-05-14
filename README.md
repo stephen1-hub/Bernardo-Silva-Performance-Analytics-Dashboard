@@ -87,7 +87,7 @@ Possession-based systems
 High-control tactical structures
 Midfield creativity roles
 Hybrid attacking midfield responsibilities
-Author
+## Author
 
-## Stephen Yaw Ayamah
+Stephen Yaw Ayamah
 Football Data Analytics | Python | Streamlit | Sports Intelligence
